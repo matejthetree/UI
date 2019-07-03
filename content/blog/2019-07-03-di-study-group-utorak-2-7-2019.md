@@ -1,0 +1,46 @@
+---
+title: 'DI Study group, utorak 2.7.2019.'
+date: 2019-07-03T11:41:26.490Z
+image: /images/img_20190702_190954-01.jpeg
+tags:
+  - di-study-group-pula
+published: true
+---
+## Sto je DI study group?
+
+U puli smo zapoceli prvu grupu za ucenje Deep Learninga i suradnju na projektima vezanih za istu. Nalazimo se svakog utorka u 19h u prostorijama Coworkinga u klubu Kotac. Slobodno nam se pridruzite.
+
+## Zadaci sa prvog sastanka
+
+### fast.ai deep learning library
+U nasoj deep learning grupi fokusirati cemo se na fast.ai library.
+ Do slijedeceg utorka smo se dogovorili da cemo pogledati dvije lekcije da se upoznamo sa osnovama:
+[lekcija 1](https://www.youtube.com/watch?v=XfoYk_Z5AkI)
+[lekcija 2](https://www.youtube.com/watch?v=ccMHJeQU4Qw).
+
+### projekti
+
+#### Mornaricki Park
+Trenutno imamo dva projekta. Jedan je klasifikacija stabala u mornarickom parku, a potom i u svim drugim parkovima Pule. 
+
+[Ovdje](https://drive.google.com/open?id=1lOZaU1CTST_xeiNllqZpbsKH7NJ70IPV) je trenutni dataset koji imamo. A  [ovdje](https://www.kaggle.com/matejthetree/mornaricki-park?scriptVersionId=16675074) je notebook koji sa trenutnim datasetom daje oko 80% accuracy. 
+
+Slijedeci nam je korak odvojiti labele od kore, lisca i cijelog drveca i staviti bounding boxeve na stabla u slikama. Za pocistiti trenutni dataset se prijavio Petar. A nove datasetove cemo odmah odvajati prilikom fotkanja.
+
+Fotkanje je u petak u 15 do 6.
+
+
+Jedan je tim dobio zadatak za fotografiranje Mornarickog Parka u petak u 17:45
+
+#### Klasifikacija maslina
+Dosli smo na ideju da probamo klasificirati sorte maslina po listu. Trenutno se u strucnim krugovima maslina precizno raspoznaje jedino po plodu. Ako uspijemo klasificirati masline po listu, napravili smo veliku uslugu svim maslinarima.
+
+Jedan je tim dobio zadatak za fotkanje maslina koje posjeduju, i labeliranje po sortama.
+
+## Komunikacija
+Otvorio sam discord server za deep learning grupu.
+[Discord server](https://discord.gg/NyEKg3j).
+Prijavite se i pozdravite ekipu u #general. 
+
+
+
