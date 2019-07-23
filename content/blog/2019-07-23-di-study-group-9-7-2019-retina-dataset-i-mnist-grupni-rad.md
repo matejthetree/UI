@@ -1,5 +1,5 @@
 ---
-title: DI study group 9.7.2019. - Retina dataset i MNIST grupni rad
+title: DI study group 22.7.2019. - Retina dataset i MNIST grupni rad
 date: 2019-07-22T12:07:09.806Z
 image: /images/screenshot-2019-06-27-at-5.36.25-pm.png
 tags:
